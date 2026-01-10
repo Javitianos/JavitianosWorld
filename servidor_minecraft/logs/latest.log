@@ -1,0 +1,646 @@
+[10Jan2026 00:02:44.366] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: h3ctor23_ has reached the goal [Flowers of the Savanna]
+[10Jan2026 00:02:46.643] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MRYIYAN13: Created team [ocultos]]
+[10Jan2026 00:02:55.797] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MRYIYAN13: Nametag visibility for team [ocultos] is now "Never"]
+[10Jan2026 00:03:04.343] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MRYIYAN13: Added 4 members to team [ocultos]]
+[10Jan2026 00:05:02.712] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: javiiii324 has made the advancement [Voluntary Exile]
+[10Jan2026 00:07:36.917] [Server thread/INFO] [explorerscompass/]: SearchWorkerManager 96a85647: RandomSpreadSearchWorker starting with 10000 max radius, 100000 max samples
+[10Jan2026 00:07:37.324] [Server thread/INFO] [explorerscompass/]: SearchWorkerManager 96a85647: RandomSpreadSearchWorker succeeded with 2133 radius, 3 samples
+[10Jan2026 00:09:21.220] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sekora35 has made the advancement [The Wind Darkening]
+[10Jan2026 00:13:24.026] [Worker-Main-2/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[10Jan2026 00:13:24.026] [Worker-Main-2/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[10Jan2026 00:13:24.027] [Worker-Main-2/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[10Jan2026 00:13:24.192] [Worker-Main-3/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[10Jan2026 00:13:24.193] [Worker-Main-3/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[10Jan2026 00:13:24.193] [Worker-Main-3/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[10Jan2026 00:13:46.710] [Worker-Main-1/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[10Jan2026 00:13:46.711] [Worker-Main-1/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[10Jan2026 00:13:46.711] [Worker-Main-1/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[10Jan2026 00:13:46.711] [Worker-Main-1/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[10Jan2026 00:13:46.841] [Worker-Main-3/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[10Jan2026 00:16:19.966] [Worker-Main-1/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[10Jan2026 00:16:19.967] [Worker-Main-1/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[10Jan2026 00:16:19.968] [Worker-Main-1/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[10Jan2026 00:16:19.968] [Worker-Main-1/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[10Jan2026 00:16:20.229] [Worker-Main-2/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[10Jan2026 00:16:20.229] [Worker-Main-2/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[10Jan2026 00:16:20.230] [Worker-Main-2/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[10Jan2026 00:16:20.230] [Worker-Main-2/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[10Jan2026 00:16:20.230] [Worker-Main-2/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[10Jan2026 00:16:36.133] [Worker-Main-3/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[10Jan2026 00:16:36.133] [Worker-Main-3/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[10Jan2026 00:16:36.134] [Worker-Main-3/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[10Jan2026 00:16:36.134] [Worker-Main-3/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[10Jan2026 00:16:41.419] [Worker-Main-2/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[10Jan2026 00:16:41.451] [Worker-Main-2/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[10Jan2026 00:16:41.452] [Worker-Main-2/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[10Jan2026 00:16:41.452] [Worker-Main-2/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[10Jan2026 00:16:41.453] [Worker-Main-2/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[10Jan2026 00:17:13.276] [Worker-Main-2/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[10Jan2026 00:17:13.277] [Worker-Main-2/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[10Jan2026 00:17:13.277] [Worker-Main-2/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[10Jan2026 00:17:13.278] [Worker-Main-2/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[10Jan2026 00:17:13.278] [Worker-Main-2/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[10Jan2026 00:17:13.387] [Worker-Main-2/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[10Jan2026 00:17:13.387] [Worker-Main-2/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[10Jan2026 00:17:23.759] [Worker-Main-3/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[10Jan2026 00:17:23.760] [Worker-Main-3/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[10Jan2026 00:17:25.298] [Worker-Main-2/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[10Jan2026 00:17:25.299] [Worker-Main-2/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[10Jan2026 00:18:04.654] [Worker-Main-2/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[10Jan2026 00:18:04.694] [Worker-Main-2/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[10Jan2026 00:18:04.694] [Worker-Main-2/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[10Jan2026 00:18:04.695] [Worker-Main-2/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[10Jan2026 00:18:08.846] [Worker-Main-1/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[10Jan2026 00:18:08.847] [Worker-Main-1/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[10Jan2026 00:18:08.847] [Worker-Main-1/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[10Jan2026 00:18:08.848] [Worker-Main-1/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[10Jan2026 00:18:08.848] [Worker-Main-1/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[10Jan2026 00:18:46.114] [Worker-Main-1/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[10Jan2026 00:18:46.155] [Worker-Main-1/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[10Jan2026 00:18:46.155] [Worker-Main-1/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[10Jan2026 00:18:46.157] [Worker-Main-1/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[10Jan2026 00:18:46.188] [Worker-Main-1/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[10Jan2026 00:18:46.189] [Worker-Main-1/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[10Jan2026 00:18:46.189] [Worker-Main-1/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[10Jan2026 00:18:46.189] [Worker-Main-1/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[10Jan2026 00:18:46.190] [Worker-Main-1/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[10Jan2026 00:18:46.772] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sekora35 has made the advancement [Dungeon Now Loading]
+[10Jan2026 00:18:58.137] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2033ms or 40 ticks behind
+[10Jan2026 00:19:19.609] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6509ms or 130 ticks behind
+[10Jan2026 00:19:47.684] [Worker-Main-1/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[10Jan2026 00:19:47.686] [Worker-Main-1/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[10Jan2026 00:19:47.756] [Worker-Main-2/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[10Jan2026 00:19:47.756] [Worker-Main-2/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[10Jan2026 00:19:54.400] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MRYIYAN13 has made the advancement [Tie me to the Mast]
+[10Jan2026 00:19:54.980] [Worker-Main-2/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[10Jan2026 00:19:54.980] [Worker-Main-2/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[10Jan2026 00:19:54.981] [Worker-Main-2/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[10Jan2026 00:19:54.981] [Worker-Main-2/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[10Jan2026 00:19:54.981] [Worker-Main-2/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[10Jan2026 00:19:59.578] [Worker-Main-1/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[10Jan2026 00:19:59.579] [Worker-Main-1/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[10Jan2026 00:20:08.922] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: javiiii324 has made the advancement [Tie me to the Mast]
+[10Jan2026 00:20:20.415] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: javiiii324 has made the advancement [Sea? Not a Problem]
+[10Jan2026 00:20:39.765] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Sekora35 lost connection: Disconnected
+[10Jan2026 00:20:39.766] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sekora35 left the game
+[10Jan2026 00:20:43.619] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: MRYIYAN13 lost connection: Disconnected
+[10Jan2026 00:20:43.619] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MRYIYAN13 left the game
+[10Jan2026 00:20:46.125] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Sekora35[/100.81.158.77:60135] logged in with entity id 25640 at (-236.0388544538181, 63.0, -1631.4003546487727)
+[10Jan2026 00:20:46.138] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sekora35 joined the game
+[10Jan2026 00:20:48.557] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Thank you so much for playing Dark Souls Expansion! If you'd like to create a server with your friends, you can do so at
+[10Jan2026 00:20:48.663] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: h3ctor23_ lost connection: Disconnected
+[10Jan2026 00:20:48.663] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: h3ctor23_ left the game
+[10Jan2026 00:20:56.680] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: MRYIYAN13[/100.81.208.88:59828] logged in with entity id 25709 at (-239.17168702764792, 65.0, -1632.5114339399581)
+[10Jan2026 00:20:56.698] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MRYIYAN13 joined the game
+[10Jan2026 00:20:57.573] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: h3ctor23_[/100.74.162.111:49183] logged in with entity id 25715 at (-238.62433138257086, 65.0, -1633.4732966242786)
+[10Jan2026 00:20:57.581] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: h3ctor23_ joined the game
+[10Jan2026 00:20:59.115] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Thank you so much for playing Dark Souls Expansion! If you'd like to create a server with your friends, you can do so at
+[10Jan2026 00:21:00.018] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Thank you so much for playing Dark Souls Expansion! If you'd like to create a server with your friends, you can do so at
+[10Jan2026 00:21:00.315] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: javiiii324 lost connection: Disconnected
+[10Jan2026 00:21:00.315] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: javiiii324 left the game
+[10Jan2026 00:21:08.627] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: javiiii324[/100.67.255.84:63378] logged in with entity id 25788 at (-240.80227679071825, 64.0, -1629.699999988079)
+[10Jan2026 00:21:08.635] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: javiiii324 joined the game
+[10Jan2026 00:21:11.065] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Thank you so much for playing Dark Souls Expansion! If you'd like to create a server with your friends, you can do so at
+[10Jan2026 00:21:54.128] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: h3ctor23_ has made the advancement [Dungeon Now Loading]
+[10Jan2026 00:21:58.754] [Worker-Main-2/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[10Jan2026 00:21:58.756] [Worker-Main-2/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[10Jan2026 00:21:58.757] [Worker-Main-2/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[10Jan2026 00:21:58.759] [Worker-Main-2/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[10Jan2026 00:21:58.775] [Worker-Main-2/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[10Jan2026 00:21:58.776] [Worker-Main-2/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[10Jan2026 00:21:58.776] [Worker-Main-2/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[10Jan2026 00:22:01.820] [Worker-Main-2/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[10Jan2026 00:22:01.820] [Worker-Main-2/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[10Jan2026 00:22:01.821] [Worker-Main-2/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[10Jan2026 00:22:01.840] [Worker-Main-2/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[10Jan2026 00:22:03.222] [Worker-Main-2/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[10Jan2026 00:22:03.222] [Worker-Main-2/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[10Jan2026 00:22:03.223] [Worker-Main-2/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[10Jan2026 00:22:03.223] [Worker-Main-2/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[10Jan2026 00:22:06.582] [Worker-Main-2/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[10Jan2026 00:22:06.583] [Worker-Main-2/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[10Jan2026 00:22:06.583] [Worker-Main-2/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[10Jan2026 00:22:06.583] [Worker-Main-2/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[10Jan2026 00:22:06.584] [Worker-Main-2/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[10Jan2026 00:22:10.080] [Worker-Main-2/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[10Jan2026 00:22:10.129] [Worker-Main-2/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[10Jan2026 00:22:10.130] [Worker-Main-2/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[10Jan2026 00:22:10.130] [Worker-Main-2/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[10Jan2026 00:22:10.130] [Worker-Main-2/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[10Jan2026 00:22:16.330] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sekora35 has made the advancement [Ol' Betsy]
+[10Jan2026 00:22:21.267] [Worker-Main-3/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[10Jan2026 00:22:21.267] [Worker-Main-3/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[10Jan2026 00:22:21.267] [Worker-Main-3/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[10Jan2026 00:22:21.268] [Worker-Main-3/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[10Jan2026 00:22:41.496] [Worker-Main-1/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[10Jan2026 00:22:41.497] [Worker-Main-1/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[10Jan2026 00:22:41.497] [Worker-Main-1/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[10Jan2026 00:22:41.497] [Worker-Main-1/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[10Jan2026 00:22:44.666] [Worker-Main-3/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[10Jan2026 00:22:44.667] [Worker-Main-3/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[10Jan2026 00:22:44.667] [Worker-Main-3/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[10Jan2026 00:22:44.667] [Worker-Main-3/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[10Jan2026 00:22:44.668] [Worker-Main-3/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[10Jan2026 00:23:14.025] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sekora35 has made the advancement [You Are A Pirate]
+[10Jan2026 00:23:55.600] [Worker-Main-2/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[10Jan2026 00:23:55.601] [Worker-Main-2/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[10Jan2026 00:23:55.601] [Worker-Main-2/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[10Jan2026 00:23:55.601] [Worker-Main-2/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[10Jan2026 00:23:55.602] [Worker-Main-2/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[10Jan2026 00:23:56.105] [Worker-Main-1/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[10Jan2026 00:23:56.105] [Worker-Main-1/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[10Jan2026 00:24:02.676] [Worker-Main-1/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[10Jan2026 00:24:02.676] [Worker-Main-1/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[10Jan2026 00:24:02.773] [Worker-Main-2/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[10Jan2026 00:24:02.773] [Worker-Main-2/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[10Jan2026 00:24:15.178] [Worker-Main-3/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[10Jan2026 00:24:15.179] [Worker-Main-3/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[10Jan2026 00:24:15.179] [Worker-Main-3/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[10Jan2026 00:24:15.179] [Worker-Main-3/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[10Jan2026 00:24:15.180] [Worker-Main-3/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[10Jan2026 00:24:15.250] [Worker-Main-3/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[10Jan2026 00:24:15.250] [Worker-Main-3/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[10Jan2026 00:24:15.251] [Worker-Main-3/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[10Jan2026 00:24:15.251] [Worker-Main-3/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[10Jan2026 00:24:20.848] [Worker-Main-2/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[10Jan2026 00:24:20.848] [Worker-Main-2/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[10Jan2026 00:24:20.849] [Worker-Main-2/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[10Jan2026 00:24:20.849] [Worker-Main-2/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[10Jan2026 00:24:23.065] [Worker-Main-2/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[10Jan2026 00:24:23.067] [Worker-Main-2/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[10Jan2026 00:24:23.067] [Worker-Main-2/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[10Jan2026 00:24:23.067] [Worker-Main-2/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[10Jan2026 00:24:23.068] [Worker-Main-2/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[10Jan2026 00:24:23.184] [Worker-Main-2/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[10Jan2026 00:24:23.184] [Worker-Main-2/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[10Jan2026 00:24:23.184] [Worker-Main-2/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[10Jan2026 00:24:23.185] [Worker-Main-2/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[10Jan2026 00:24:23.331] [Worker-Main-1/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[10Jan2026 00:24:23.332] [Worker-Main-1/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[10Jan2026 00:24:23.332] [Worker-Main-1/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[10Jan2026 00:24:23.333] [Worker-Main-1/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[10Jan2026 00:25:07.442] [Worker-Main-1/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[10Jan2026 00:25:07.443] [Worker-Main-1/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[10Jan2026 00:25:07.444] [Worker-Main-1/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[10Jan2026 00:25:07.445] [Worker-Main-1/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[10Jan2026 00:25:07.445] [Worker-Main-1/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[10Jan2026 00:25:11.603] [Worker-Main-1/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[10Jan2026 00:25:11.604] [Worker-Main-1/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[10Jan2026 00:25:11.605] [Worker-Main-1/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[10Jan2026 00:25:11.610] [Worker-Main-1/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[10Jan2026 00:25:11.610] [Worker-Main-1/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[10Jan2026 00:26:22.716] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MRYIYAN13 has made the advancement [Jail of Cold]
+[10Jan2026 00:26:27.014] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sekora35 has made the advancement [Jail of Cold]
+[10Jan2026 00:26:27.567] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: h3ctor23_ has made the advancement [Jail of Cold]
+[10Jan2026 00:26:38.583] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: javiiii324 has made the advancement [Jail of Cold]
+[10Jan2026 00:30:13.691] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MRYIYAN13 has made the advancement [The Lighthouse]
+[10Jan2026 00:30:26.015] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sekora35 has made the advancement [The Lighthouse]
+[10Jan2026 00:32:10.474] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: javiiii324 was slain by Royal Draugr
+[10Jan2026 00:32:24.572] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: h3ctor23_ was slain by Royal Draugr
+[10Jan2026 00:32:39.125] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MRYIYAN13: Teleported javiiii324 to h3ctor23_]
+[10Jan2026 00:32:45.250] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MRYIYAN13: Teleported javiiii324 to MRYIYAN13]
+[10Jan2026 00:32:51.873] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MRYIYAN13: Teleported h3ctor23_ to MRYIYAN13]
+[10Jan2026 00:34:23.868] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: h3ctor23_ has made the advancement [Stone Age]
+[10Jan2026 00:36:12.113] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sekora35 has made the advancement [Cover Me with Diamonds]
+[10Jan2026 00:40:54.569] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sekora35 has completed the challenge [Rude Awakening]
+[10Jan2026 00:41:16.710] [Worker-Main-2/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[10Jan2026 00:41:20.638] [Worker-Main-1/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[10Jan2026 00:41:20.638] [Worker-Main-1/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[10Jan2026 00:41:20.639] [Worker-Main-1/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[10Jan2026 00:41:20.639] [Worker-Main-1/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[10Jan2026 00:41:20.704] [Worker-Main-2/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[10Jan2026 00:41:20.705] [Worker-Main-2/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[10Jan2026 00:41:20.706] [Worker-Main-2/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[10Jan2026 00:41:20.706] [Worker-Main-2/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[10Jan2026 00:42:15.025] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: javiiii324 has made the advancement [Who You Gonna Call?]
+[10Jan2026 00:42:24.216] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MRYIYAN13 has reached the goal [Flowers of the Savanna]
+[10Jan2026 00:49:42.013] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: MRYIYAN13 was kicked for floating too long!
+[10Jan2026 00:49:42.014] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: MRYIYAN13 lost connection: Disconnected
+[10Jan2026 00:49:42.014] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MRYIYAN13 left the game
+[10Jan2026 00:49:42.064] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[10Jan2026 00:49:53.811] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: javiiii324 was frozen to death by Maledictus
+[10Jan2026 00:49:53.816] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: javiiii324 has completed the challenge [This is Bonfires]
+[10Jan2026 00:49:56.626] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: MRYIYAN13[/100.81.208.88:60190] logged in with entity id 38345 at (135.6210185393621, 52.084533108472826, -2258.09654108689)
+[10Jan2026 00:49:56.646] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MRYIYAN13 joined the game
+[10Jan2026 00:49:59.064] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Thank you so much for playing Dark Souls Expansion! If you'd like to create a server with your friends, you can do so at
+[10Jan2026 00:50:59.264] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: h3ctor23_ was cursed by Maledictus
+[10Jan2026 00:51:03.664] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sekora35 burned to death
+[10Jan2026 00:54:07.124] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MRYIYAN13 has completed the challenge [Crusade Against Curse]
+[10Jan2026 00:56:03.688] [Server thread/INFO] [explorerscompass/]: SearchWorkerManager 96a85647: RandomSpreadSearchWorker starting with 10000 max radius, 100000 max samples
+[10Jan2026 00:56:04.936] [Server thread/INFO] [explorerscompass/]: SearchWorkerManager 96a85647: RandomSpreadSearchWorker succeeded with 5784 radius, 17 samples
+[10Jan2026 00:58:03.619] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sekora35 has made the advancement [My Name is Nobody]
+[10Jan2026 00:58:07.665] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: h3ctor23_ has made the advancement [The Lighthouse]
+[10Jan2026 00:58:18.472] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sekora35 has made the advancement [Stone Age]
+[10Jan2026 00:59:11.171] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: javiiii324 lost connection: Disconnected
+[10Jan2026 00:59:11.171] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: javiiii324 left the game
+[10Jan2026 00:59:21.965] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: h3ctor23_ lost connection: Disconnected
+[10Jan2026 00:59:21.965] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: h3ctor23_ left the game
+[10Jan2026 01:02:36.443] [Worker-Main-2/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[10Jan2026 01:02:36.443] [Worker-Main-2/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[10Jan2026 01:02:36.444] [Worker-Main-2/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[10Jan2026 01:02:36.506] [Worker-Main-2/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[10Jan2026 01:02:36.507] [Worker-Main-2/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[10Jan2026 01:02:36.507] [Worker-Main-2/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[10Jan2026 01:02:39.123] [Worker-Main-3/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[10Jan2026 01:02:39.272] [Worker-Main-1/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[10Jan2026 01:02:39.273] [Worker-Main-1/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[10Jan2026 01:02:39.273] [Worker-Main-1/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[10Jan2026 01:02:39.273] [Worker-Main-1/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[10Jan2026 01:04:32.899] [Worker-Main-1/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[10Jan2026 01:04:32.900] [Worker-Main-1/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[10Jan2026 01:04:32.900] [Worker-Main-1/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[10Jan2026 01:04:32.900] [Worker-Main-1/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[10Jan2026 01:04:33.320] [Worker-Main-3/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[10Jan2026 01:04:33.320] [Worker-Main-3/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[10Jan2026 01:04:33.320] [Worker-Main-3/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[10Jan2026 01:04:33.320] [Worker-Main-3/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[10Jan2026 01:04:33.321] [Worker-Main-3/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[10Jan2026 01:04:45.008] [Worker-Main-3/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[10Jan2026 01:04:45.009] [Worker-Main-3/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[10Jan2026 01:04:45.009] [Worker-Main-3/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[10Jan2026 01:04:45.009] [Worker-Main-3/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[10Jan2026 01:04:51.865] [Worker-Main-3/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[10Jan2026 01:04:51.865] [Worker-Main-3/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[10Jan2026 01:04:51.866] [Worker-Main-3/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[10Jan2026 01:04:51.866] [Worker-Main-3/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[10Jan2026 01:05:10.958] [Worker-Main-1/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[10Jan2026 01:06:36.684] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MRYIYAN13 has made the advancement [Not the Olympic Type]
+[10Jan2026 01:06:36.875] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MRYIYAN13 has made the advancement [...And My Axe!]
+[10Jan2026 01:06:46.210] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MRYIYAN13 has made the advancement [Going Clubbing]
+[10Jan2026 01:06:47.099] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MRYIYAN13 has made the advancement [Tip of the Spear]
+[10Jan2026 01:07:21.300] [Worker-Main-2/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: dungeons_arise:underworld/foundry/foundry_corridor_gears
+[10Jan2026 01:07:21.302] [Worker-Main-2/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: dungeons_arise:underworld/foundry/foundry_corridor_gears
+[10Jan2026 01:07:21.318] [Worker-Main-2/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: dungeons_arise:underworld/foundry/foundry_corridor_gears
+[10Jan2026 01:07:21.320] [Worker-Main-2/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: dungeons_arise:underworld/foundry/foundry_corridor_gears
+[10Jan2026 01:07:21.320] [Worker-Main-2/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: dungeons_arise:underworld/foundry/foundry_corridor_gears
+[10Jan2026 01:07:21.323] [Worker-Main-2/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: dungeons_arise:underworld/foundry/foundry_corridor_gears
+[10Jan2026 01:07:21.325] [Worker-Main-2/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: dungeons_arise:underworld/foundry/foundry_corridor_gears
+[10Jan2026 01:07:21.328] [Worker-Main-2/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: dungeons_arise:underworld/foundry/foundry_corridor_gears
+[10Jan2026 01:07:21.330] [Worker-Main-2/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: dungeons_arise:underworld/foundry/foundry_corridor_gears
+[10Jan2026 01:07:21.330] [Worker-Main-2/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: dungeons_arise:underworld/foundry/foundry_corridor_gears
+[10Jan2026 01:07:23.036] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sekora35 has made the advancement [Diamonds!]
+[10Jan2026 01:11:14.065] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MRYIYAN13 has made the advancement [Herc was on a Roll!]
+[10Jan2026 01:11:15.513] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sekora35 has made the advancement [Herc was on a Roll!]
+[10Jan2026 01:12:23.539] [Worker-Main-3/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[10Jan2026 01:12:23.689] [Worker-Main-1/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[10Jan2026 01:12:23.690] [Worker-Main-1/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[10Jan2026 01:12:23.690] [Worker-Main-1/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[10Jan2026 01:12:44.491] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: MRYIYAN13 moved wrongly!
+[10Jan2026 01:12:44.539] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: MRYIYAN13 moved wrongly!
+[10Jan2026 01:12:55.818] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MRYIYAN13 has reached the goal [Dark Creator]
+[10Jan2026 01:13:26.792] [Worker-Main-2/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[10Jan2026 01:13:26.792] [Worker-Main-2/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[10Jan2026 01:13:26.793] [Worker-Main-2/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[10Jan2026 01:13:26.793] [Worker-Main-2/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[10Jan2026 01:13:26.869] [Worker-Main-2/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[10Jan2026 01:13:26.870] [Worker-Main-2/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[10Jan2026 01:13:26.870] [Worker-Main-2/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[10Jan2026 01:13:36.823] [Worker-Main-3/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[10Jan2026 01:13:36.823] [Worker-Main-3/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[10Jan2026 01:13:36.961] [Worker-Main-3/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[10Jan2026 01:13:36.961] [Worker-Main-3/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[10Jan2026 01:13:38.226] [Worker-Main-3/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[10Jan2026 01:13:38.226] [Worker-Main-3/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[10Jan2026 01:13:38.227] [Worker-Main-3/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[10Jan2026 01:13:38.227] [Worker-Main-3/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[10Jan2026 01:13:38.227] [Worker-Main-3/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[10Jan2026 01:13:38.286] [Worker-Main-1/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[10Jan2026 01:13:38.287] [Worker-Main-1/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[10Jan2026 01:14:20.587] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sekora35 has made the advancement [A Fool's Folly]
+[10Jan2026 01:14:25.730] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sekora35 has made the advancement [Tools of the Trade]
+[10Jan2026 01:15:56.766] [Worker-Main-2/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[10Jan2026 01:15:56.766] [Worker-Main-2/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[10Jan2026 01:15:56.766] [Worker-Main-2/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[10Jan2026 01:15:56.766] [Worker-Main-2/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[10Jan2026 01:15:59.291] [Worker-Main-2/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[10Jan2026 01:15:59.292] [Worker-Main-2/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[10Jan2026 01:15:59.292] [Worker-Main-2/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[10Jan2026 01:15:59.292] [Worker-Main-2/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[10Jan2026 01:15:59.401] [Worker-Main-1/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[10Jan2026 01:17:04.357] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MRYIYAN13 has made the advancement [Who You Gonna Call?]
+[10Jan2026 01:17:11.452] [Worker-Main-2/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[10Jan2026 01:17:11.452] [Worker-Main-2/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[10Jan2026 01:17:11.452] [Worker-Main-2/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[10Jan2026 01:17:11.453] [Worker-Main-2/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[10Jan2026 01:17:15.126] [Worker-Main-3/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[10Jan2026 01:17:15.217] [Worker-Main-3/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[10Jan2026 01:17:15.218] [Worker-Main-3/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[10Jan2026 01:17:15.218] [Worker-Main-3/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[10Jan2026 01:17:15.218] [Worker-Main-3/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[10Jan2026 01:17:32.889] [Worker-Main-1/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[10Jan2026 01:17:32.890] [Worker-Main-1/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[10Jan2026 01:17:32.890] [Worker-Main-1/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[10Jan2026 01:17:32.890] [Worker-Main-1/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[10Jan2026 01:17:32.891] [Worker-Main-1/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[10Jan2026 01:17:32.978] [Worker-Main-1/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[10Jan2026 01:17:32.979] [Worker-Main-1/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[10Jan2026 01:17:32.979] [Worker-Main-1/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[10Jan2026 01:17:32.980] [Worker-Main-1/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[10Jan2026 01:18:00.970] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SmeltItemFunction/]: Couldn't smelt 1 bison_fur because there is no smelting recipe
+[10Jan2026 01:18:19.782] [Worker-Main-3/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[10Jan2026 01:18:19.782] [Worker-Main-3/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[10Jan2026 01:18:19.783] [Worker-Main-3/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[10Jan2026 01:18:19.783] [Worker-Main-3/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[10Jan2026 01:18:19.867] [Worker-Main-3/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[10Jan2026 01:18:19.867] [Worker-Main-3/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[10Jan2026 01:18:19.868] [Worker-Main-3/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[10Jan2026 01:18:19.868] [Worker-Main-3/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[10Jan2026 01:18:19.871] [Worker-Main-3/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[10Jan2026 01:18:22.976] [Worker-Main-1/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[10Jan2026 01:18:22.977] [Worker-Main-1/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[10Jan2026 01:18:22.977] [Worker-Main-1/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[10Jan2026 01:18:22.986] [Worker-Main-1/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[10Jan2026 01:18:22.986] [Worker-Main-1/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[10Jan2026 01:18:22.986] [Worker-Main-1/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[10Jan2026 01:18:31.250] [Worker-Main-3/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[10Jan2026 01:18:31.250] [Worker-Main-3/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[10Jan2026 01:18:31.251] [Worker-Main-3/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[10Jan2026 01:18:31.251] [Worker-Main-3/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[10Jan2026 01:18:31.260] [Worker-Main-3/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[10Jan2026 01:20:34.159] [Worker-Main-3/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[10Jan2026 01:20:37.376] [Worker-Main-3/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[10Jan2026 01:20:37.377] [Worker-Main-3/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[10Jan2026 01:20:37.377] [Worker-Main-3/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[10Jan2026 01:20:37.377] [Worker-Main-3/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[10Jan2026 01:20:37.387] [Worker-Main-2/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[10Jan2026 01:20:37.387] [Worker-Main-2/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[10Jan2026 01:20:37.387] [Worker-Main-2/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[10Jan2026 01:20:37.387] [Worker-Main-2/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[10Jan2026 01:20:46.859] [Worker-Main-1/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[10Jan2026 01:20:46.859] [Worker-Main-1/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[10Jan2026 01:20:46.860] [Worker-Main-1/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[10Jan2026 01:20:46.860] [Worker-Main-1/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[10Jan2026 01:20:46.860] [Worker-Main-1/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[10Jan2026 01:20:51.979] [Worker-Main-2/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[10Jan2026 01:20:51.979] [Worker-Main-2/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[10Jan2026 01:20:51.980] [Worker-Main-2/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[10Jan2026 01:20:51.980] [Worker-Main-2/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[10Jan2026 01:20:51.980] [Worker-Main-2/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[10Jan2026 01:20:52.015] [Worker-Main-3/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[10Jan2026 01:20:52.016] [Worker-Main-3/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[10Jan2026 01:20:52.016] [Worker-Main-3/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[10Jan2026 01:20:52.017] [Worker-Main-3/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[10Jan2026 01:20:52.017] [Worker-Main-3/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[10Jan2026 01:22:16.000] [Worker-Main-3/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: dungeonnowloading:temple_of_duality/boss_room
+[10Jan2026 01:22:16.097] [Worker-Main-3/ERROR] [net.minecraft.world.level.levelgen.structure.templatesystem.StructureTemplateManager/]: Couldn't load structure dungeonnowloading:temple_of_duality/chamber/easy/arrow_lane
+net.minecraft.ReportedException: Loading NBT data
+	at net.minecraft.nbt.CompoundTag.m_128413_(CompoundTag.java:480) ~[server-1.20.1-20230612.114412-srg.jar%23259!/:?]
+	at net.minecraft.nbt.CompoundTag$1.m_7300_(CompoundTag.java:45) ~[server-1.20.1-20230612.114412-srg.jar%23259!/:?]
+	at net.minecraft.nbt.CompoundTag$1.m_7300_(CompoundTag.java:32) ~[server-1.20.1-20230612.114412-srg.jar%23259!/:?]
+	at net.minecraft.nbt.ListTag$1.m_7300_(ListTag.java:43) ~[server-1.20.1-20230612.114412-srg.jar%23259!/:?]
+	at net.minecraft.nbt.ListTag$1.m_7300_(ListTag.java:26) ~[server-1.20.1-20230612.114412-srg.jar%23259!/:?]
+	at net.minecraft.nbt.CompoundTag.m_128413_(CompoundTag.java:474) ~[server-1.20.1-20230612.114412-srg.jar%23259!/:?]
+	at net.minecraft.nbt.CompoundTag$1.m_7300_(CompoundTag.java:45) ~[server-1.20.1-20230612.114412-srg.jar%23259!/:?]
+	at net.minecraft.nbt.CompoundTag$1.m_7300_(CompoundTag.java:32) ~[server-1.20.1-20230612.114412-srg.jar%23259!/:?]
+	at net.minecraft.nbt.NbtIo.m_128930_(NbtIo.java:153) ~[server-1.20.1-20230612.114412-srg.jar%23259!/:?]
+	at net.minecraft.nbt.NbtIo.m_128934_(NbtIo.java:99) ~[server-1.20.1-20230612.114412-srg.jar%23259!/:?]
+	at net.minecraft.nbt.NbtIo.m_128939_(NbtIo.java:35) ~[server-1.20.1-20230612.114412-srg.jar%23259!/:?]
+	at net.minecraft.world.level.levelgen.structure.templatesystem.StructureTemplateManager.m_230377_(StructureTemplateManager.java:227) ~[server-1.20.1-20230612.114412-srg.jar%23259!/:?]
+	at net.minecraft.world.level.levelgen.structure.templatesystem.StructureTemplateManager.m_230372_(StructureTemplateManager.java:217) ~[server-1.20.1-20230612.114412-srg.jar%23259!/:?]
+	at net.minecraft.world.level.levelgen.structure.templatesystem.StructureTemplateManager.m_230427_(StructureTemplateManager.java:130) ~[server-1.20.1-20230612.114412-srg.jar%23259!/:?]
+	at net.minecraft.world.level.levelgen.structure.templatesystem.StructureTemplateManager.m_230425_(StructureTemplateManager.java:108) ~[server-1.20.1-20230612.114412-srg.jar%23259!/:?]
+	at java.util.concurrent.ConcurrentHashMap.computeIfAbsent(ConcurrentHashMap.java:1740) ~[?:?]
+	at net.minecraft.world.level.levelgen.structure.templatesystem.StructureTemplateManager.m_230407_(StructureTemplateManager.java:98) ~[server-1.20.1-20230612.114412-srg.jar%23259!/:?]
+	at net.minecraft.world.level.levelgen.structure.templatesystem.StructureTemplateManager.m_230359_(StructureTemplateManager.java:86) ~[server-1.20.1-20230612.114412-srg.jar%23259!/:?]
+	at com.mojang.datafixers.util.Either$Left.map(Either.java:38) ~[datafixerupper-6.0.8.jar%2377!/:?]
+	at net.minecraft.world.level.levelgen.structure.pools.SinglePoolElement.m_227299_(SinglePoolElement.java:81) ~[server-1.20.1-20230612.114412-srg.jar%23259!/:?]
+	at net.minecraft.world.level.levelgen.structure.pools.SinglePoolElement.m_213638_(SinglePoolElement.java:107) ~[server-1.20.1-20230612.114412-srg.jar%23259!/:?]
+	at net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement$Placer.m_227264_(JigsawPlacement.java:149) ~[server-1.20.1-20230612.114412-srg.jar%23259!/:?]
+	at net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement.m_227210_(JigsawPlacement.java:365) ~[server-1.20.1-20230612.114412-srg.jar%23259!/:?]
+	at net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement.m_227222_(JigsawPlacement.java:339) ~[server-1.20.1-20230612.114412-srg.jar%23259!/:?]
+	at net.minecraft.world.level.levelgen.structure.Structure$GenerationStub.m_226680_(Structure.java:206) ~[server-1.20.1-20230612.114412-srg.jar%23259!/:?]
+	at com.mojang.datafixers.util.Either$Left.map(Either.java:38) ~[datafixerupper-6.0.8.jar%2377!/:?]
+	at net.minecraft.world.level.levelgen.structure.Structure$GenerationStub.m_226677_(Structure.java:204) ~[server-1.20.1-20230612.114412-srg.jar%23259!/:?]
+	at net.minecraft.world.level.levelgen.structure.Structure.m_226596_(Structure.java:88) ~[server-1.20.1-20230612.114412-srg.jar%23259!/:?]
+	at net.minecraft.world.level.chunk.ChunkGenerator.m_223104_(ChunkGenerator.java:513) ~[server-1.20.1-20230612.114412-srg.jar%23259!/:?]
+	at net.minecraft.world.level.chunk.ChunkGenerator.m_254811_(ChunkGenerator.java:466) ~[server-1.20.1-20230612.114412-srg.jar%23259!/:?]
+	at java.lang.Iterable.forEach(Iterable.java:75) ~[?:?]
+	at net.minecraft.world.level.chunk.ChunkGenerator.m_255037_(ChunkGenerator.java:448) ~[server-1.20.1-20230612.114412-srg.jar%23259!/:?]
+	at net.minecraft.world.level.chunk.ChunkStatus.m_289181_(ChunkStatus.java:54) ~[server-1.20.1-20230612.114412-srg.jar%23259!/:?]
+	at net.minecraft.world.level.chunk.ChunkStatus.m_280308_(ChunkStatus.java:252) ~[server-1.20.1-20230612.114412-srg.jar%23259!/:?]
+	at net.minecraft.server.level.ChunkMap.lambda$scheduleChunkGeneration$27(ChunkMap.java:643) ~[server-1.20.1-20230612.114412-srg.jar%23259!/:?]
+	at com.mojang.datafixers.util.Either$Left.map(Either.java:38) ~[datafixerupper-6.0.8.jar%2377!/:?]
+	at net.minecraft.server.level.ChunkMap.lambda$scheduleChunkGeneration$29(ChunkMap.java:634) ~[server-1.20.1-20230612.114412-srg.jar%23259!/:?]
+	at java.util.concurrent.CompletableFuture$UniCompose.tryFire(CompletableFuture.java:1150) ~[?:?]
+	at java.util.concurrent.CompletableFuture$Completion.run(CompletableFuture.java:482) ~[?:?]
+	at net.minecraft.server.level.ChunkTaskPriorityQueueSorter.m_143188_(ChunkTaskPriorityQueueSorter.java:62) ~[server-1.20.1-20230612.114412-srg.jar%23259!/:?]
+	at net.minecraft.util.thread.ProcessorMailbox.m_18759_(ProcessorMailbox.java:91) ~[server-1.20.1-20230612.114412-srg.jar%23259!/:?]
+	at net.minecraft.util.thread.ProcessorMailbox.m_18747_(ProcessorMailbox.java:146) ~[server-1.20.1-20230612.114412-srg.jar%23259!/:?]
+	at net.minecraft.util.thread.ProcessorMailbox.run(ProcessorMailbox.java:102) ~[server-1.20.1-20230612.114412-srg.jar%23259!/:?]
+	at java.util.concurrent.ForkJoinTask$RunnableExecuteAction.exec(ForkJoinTask.java:1395) ~[?:?]
+	at java.util.concurrent.ForkJoinTask.doExec(ForkJoinTask.java:373) ~[?:?]
+	at java.util.concurrent.ForkJoinPool$WorkQueue.topLevelExec(ForkJoinPool.java:1182) ~[?:?]
+	at java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1655) ~[?:?]
+	at java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1622) ~[?:?]
+	at java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:165) ~[?:?]
+Caused by: java.util.zip.ZipException: Corrupt GZIP trailer
+	at java.util.zip.GZIPInputStream.readTrailer(GZIPInputStream.java:225) ~[?:?]
+	at java.util.zip.GZIPInputStream.read(GZIPInputStream.java:119) ~[?:?]
+	at net.minecraft.util.FastBufferedInputStream.m_196572_(FastBufferedInputStream.java:94) ~[server-1.20.1-20230612.114412-srg.jar%23259!/:?]
+	at net.minecraft.util.FastBufferedInputStream.read(FastBufferedInputStream.java:47) ~[server-1.20.1-20230612.114412-srg.jar%23259!/:?]
+	at java.io.DataInputStream.readFully(DataInputStream.java:201) ~[?:?]
+	at java.io.DataInputStream.readLong(DataInputStream.java:410) ~[?:?]
+	at net.minecraft.nbt.LongArrayTag$1.m_7300_(LongArrayTag.java:30) ~[server-1.20.1-20230612.114412-srg.jar%23259!/:?]
+	at net.minecraft.nbt.LongArrayTag$1.m_7300_(LongArrayTag.java:21) ~[server-1.20.1-20230612.114412-srg.jar%23259!/:?]
+	at net.minecraft.nbt.CompoundTag.m_128413_(CompoundTag.java:474) ~[server-1.20.1-20230612.114412-srg.jar%23259!/:?]
+	... 48 more
+[10Jan2026 01:22:16.147] [Worker-Main-3/ERROR] [net.minecraft.world.level.levelgen.structure.templatesystem.StructureTemplateManager/]: Couldn't load structure dungeonnowloading:temple_of_duality/chamber/normal/pillar_parkour
+net.minecraft.ReportedException: Loading NBT data
+	at net.minecraft.nbt.CompoundTag.m_128413_(CompoundTag.java:480) ~[server-1.20.1-20230612.114412-srg.jar%23259!/:?]
+	at net.minecraft.nbt.CompoundTag$1.m_7300_(CompoundTag.java:45) ~[server-1.20.1-20230612.114412-srg.jar%23259!/:?]
+	at net.minecraft.nbt.CompoundTag$1.m_7300_(CompoundTag.java:32) ~[server-1.20.1-20230612.114412-srg.jar%23259!/:?]
+	at net.minecraft.nbt.ListTag$1.m_7300_(ListTag.java:43) ~[server-1.20.1-20230612.114412-srg.jar%23259!/:?]
+	at net.minecraft.nbt.ListTag$1.m_7300_(ListTag.java:26) ~[server-1.20.1-20230612.114412-srg.jar%23259!/:?]
+	at net.minecraft.nbt.CompoundTag.m_128413_(CompoundTag.java:474) ~[server-1.20.1-20230612.114412-srg.jar%23259!/:?]
+	at net.minecraft.nbt.CompoundTag$1.m_7300_(CompoundTag.java:45) ~[server-1.20.1-20230612.114412-srg.jar%23259!/:?]
+	at net.minecraft.nbt.CompoundTag$1.m_7300_(CompoundTag.java:32) ~[server-1.20.1-20230612.114412-srg.jar%23259!/:?]
+	at net.minecraft.nbt.NbtIo.m_128930_(NbtIo.java:153) ~[server-1.20.1-20230612.114412-srg.jar%23259!/:?]
+	at net.minecraft.nbt.NbtIo.m_128934_(NbtIo.java:99) ~[server-1.20.1-20230612.114412-srg.jar%23259!/:?]
+	at net.minecraft.nbt.NbtIo.m_128939_(NbtIo.java:35) ~[server-1.20.1-20230612.114412-srg.jar%23259!/:?]
+	at net.minecraft.world.level.levelgen.structure.templatesystem.StructureTemplateManager.m_230377_(StructureTemplateManager.java:227) ~[server-1.20.1-20230612.114412-srg.jar%23259!/:?]
+	at net.minecraft.world.level.levelgen.structure.templatesystem.StructureTemplateManager.m_230372_(StructureTemplateManager.java:217) ~[server-1.20.1-20230612.114412-srg.jar%23259!/:?]
+	at net.minecraft.world.level.levelgen.structure.templatesystem.StructureTemplateManager.m_230427_(StructureTemplateManager.java:130) ~[server-1.20.1-20230612.114412-srg.jar%23259!/:?]
+	at net.minecraft.world.level.levelgen.structure.templatesystem.StructureTemplateManager.m_230425_(StructureTemplateManager.java:108) ~[server-1.20.1-20230612.114412-srg.jar%23259!/:?]
+	at java.util.concurrent.ConcurrentHashMap.computeIfAbsent(ConcurrentHashMap.java:1708) ~[?:?]
+	at net.minecraft.world.level.levelgen.structure.templatesystem.StructureTemplateManager.m_230407_(StructureTemplateManager.java:98) ~[server-1.20.1-20230612.114412-srg.jar%23259!/:?]
+	at net.minecraft.world.level.levelgen.structure.templatesystem.StructureTemplateManager.m_230359_(StructureTemplateManager.java:86) ~[server-1.20.1-20230612.114412-srg.jar%23259!/:?]
+	at com.mojang.datafixers.util.Either$Left.map(Either.java:38) ~[datafixerupper-6.0.8.jar%2377!/:?]
+	at net.minecraft.world.level.levelgen.structure.pools.SinglePoolElement.m_227299_(SinglePoolElement.java:81) ~[server-1.20.1-20230612.114412-srg.jar%23259!/:?]
+	at net.minecraft.world.level.levelgen.structure.pools.SinglePoolElement.m_213638_(SinglePoolElement.java:107) ~[server-1.20.1-20230612.114412-srg.jar%23259!/:?]
+	at net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement$Placer.m_227264_(JigsawPlacement.java:149) ~[server-1.20.1-20230612.114412-srg.jar%23259!/:?]
+	at net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement.m_227210_(JigsawPlacement.java:365) ~[server-1.20.1-20230612.114412-srg.jar%23259!/:?]
+	at net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement.m_227222_(JigsawPlacement.java:339) ~[server-1.20.1-20230612.114412-srg.jar%23259!/:?]
+	at net.minecraft.world.level.levelgen.structure.Structure$GenerationStub.m_226680_(Structure.java:206) ~[server-1.20.1-20230612.114412-srg.jar%23259!/:?]
+	at com.mojang.datafixers.util.Either$Left.map(Either.java:38) ~[datafixerupper-6.0.8.jar%2377!/:?]
+	at net.minecraft.world.level.levelgen.structure.Structure$GenerationStub.m_226677_(Structure.java:204) ~[server-1.20.1-20230612.114412-srg.jar%23259!/:?]
+	at net.minecraft.world.level.levelgen.structure.Structure.m_226596_(Structure.java:88) ~[server-1.20.1-20230612.114412-srg.jar%23259!/:?]
+	at net.minecraft.world.level.chunk.ChunkGenerator.m_223104_(ChunkGenerator.java:513) ~[server-1.20.1-20230612.114412-srg.jar%23259!/:?]
+	at net.minecraft.world.level.chunk.ChunkGenerator.m_254811_(ChunkGenerator.java:466) ~[server-1.20.1-20230612.114412-srg.jar%23259!/:?]
+	at java.lang.Iterable.forEach(Iterable.java:75) ~[?:?]
+	at net.minecraft.world.level.chunk.ChunkGenerator.m_255037_(ChunkGenerator.java:448) ~[server-1.20.1-20230612.114412-srg.jar%23259!/:?]
+	at net.minecraft.world.level.chunk.ChunkStatus.m_289181_(ChunkStatus.java:54) ~[server-1.20.1-20230612.114412-srg.jar%23259!/:?]
+	at net.minecraft.world.level.chunk.ChunkStatus.m_280308_(ChunkStatus.java:252) ~[server-1.20.1-20230612.114412-srg.jar%23259!/:?]
+	at net.minecraft.server.level.ChunkMap.lambda$scheduleChunkGeneration$27(ChunkMap.java:643) ~[server-1.20.1-20230612.114412-srg.jar%23259!/:?]
+	at com.mojang.datafixers.util.Either$Left.map(Either.java:38) ~[datafixerupper-6.0.8.jar%2377!/:?]
+	at net.minecraft.server.level.ChunkMap.lambda$scheduleChunkGeneration$29(ChunkMap.java:634) ~[server-1.20.1-20230612.114412-srg.jar%23259!/:?]
+	at java.util.concurrent.CompletableFuture$UniCompose.tryFire(CompletableFuture.java:1150) ~[?:?]
+	at java.util.concurrent.CompletableFuture$Completion.run(CompletableFuture.java:482) ~[?:?]
+	at net.minecraft.server.level.ChunkTaskPriorityQueueSorter.m_143188_(ChunkTaskPriorityQueueSorter.java:62) ~[server-1.20.1-20230612.114412-srg.jar%23259!/:?]
+	at net.minecraft.util.thread.ProcessorMailbox.m_18759_(ProcessorMailbox.java:91) ~[server-1.20.1-20230612.114412-srg.jar%23259!/:?]
+	at net.minecraft.util.thread.ProcessorMailbox.m_18747_(ProcessorMailbox.java:146) ~[server-1.20.1-20230612.114412-srg.jar%23259!/:?]
+	at net.minecraft.util.thread.ProcessorMailbox.run(ProcessorMailbox.java:102) ~[server-1.20.1-20230612.114412-srg.jar%23259!/:?]
+	at java.util.concurrent.ForkJoinTask$RunnableExecuteAction.exec(ForkJoinTask.java:1395) ~[?:?]
+	at java.util.concurrent.ForkJoinTask.doExec(ForkJoinTask.java:373) ~[?:?]
+	at java.util.concurrent.ForkJoinPool$WorkQueue.topLevelExec(ForkJoinPool.java:1182) ~[?:?]
+	at java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1655) ~[?:?]
+	at java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1622) ~[?:?]
+	at java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:165) ~[?:?]
+Caused by: java.io.IOException: Invalid tag id: 15
+	at net.minecraft.nbt.TagType$1.m_197591_(TagType.java:58) ~[server-1.20.1-20230612.114412-srg.jar%23259!/:?]
+	at net.minecraft.nbt.TagType$1.m_7300_(TagType.java:63) ~[server-1.20.1-20230612.114412-srg.jar%23259!/:?]
+	at net.minecraft.nbt.TagType$1.m_7300_(TagType.java:56) ~[server-1.20.1-20230612.114412-srg.jar%23259!/:?]
+	at net.minecraft.nbt.CompoundTag.m_128413_(CompoundTag.java:474) ~[server-1.20.1-20230612.114412-srg.jar%23259!/:?]
+	... 48 more
+[10Jan2026 01:22:16.333] [Worker-Main-3/ERROR] [net.minecraft.world.level.levelgen.structure.templatesystem.StructureTemplateManager/]: Couldn't load structure dungeonnowloading:temple_of_duality/chamber/hard/signal_tracker
+java.util.zip.ZipException: invalid literal/lengths set
+	at java.util.zip.InflaterInputStream.read(InflaterInputStream.java:164) ~[?:?]
+	at java.util.zip.GZIPInputStream.read(GZIPInputStream.java:117) ~[?:?]
+	at net.minecraft.util.FastBufferedInputStream.m_196572_(FastBufferedInputStream.java:94) ~[server-1.20.1-20230612.114412-srg.jar%23259!/:?]
+	at net.minecraft.util.FastBufferedInputStream.read(FastBufferedInputStream.java:32) ~[server-1.20.1-20230612.114412-srg.jar%23259!/:?]
+	at java.io.DataInputStream.readUnsignedByte(DataInputStream.java:288) ~[?:?]
+	at java.io.DataInputStream.readByte(DataInputStream.java:268) ~[?:?]
+	at net.minecraft.nbt.NbtIo.m_128930_(NbtIo.java:144) ~[server-1.20.1-20230612.114412-srg.jar%23259!/:?]
+	at net.minecraft.nbt.NbtIo.m_128934_(NbtIo.java:99) ~[server-1.20.1-20230612.114412-srg.jar%23259!/:?]
+	at net.minecraft.nbt.NbtIo.m_128939_(NbtIo.java:35) ~[server-1.20.1-20230612.114412-srg.jar%23259!/:?]
+	at net.minecraft.world.level.levelgen.structure.templatesystem.StructureTemplateManager.m_230377_(StructureTemplateManager.java:227) ~[server-1.20.1-20230612.114412-srg.jar%23259!/:?]
+	at net.minecraft.world.level.levelgen.structure.templatesystem.StructureTemplateManager.m_230372_(StructureTemplateManager.java:217) ~[server-1.20.1-20230612.114412-srg.jar%23259!/:?]
+	at net.minecraft.world.level.levelgen.structure.templatesystem.StructureTemplateManager.m_230427_(StructureTemplateManager.java:130) ~[server-1.20.1-20230612.114412-srg.jar%23259!/:?]
+	at net.minecraft.world.level.levelgen.structure.templatesystem.StructureTemplateManager.m_230425_(StructureTemplateManager.java:108) ~[server-1.20.1-20230612.114412-srg.jar%23259!/:?]
+	at java.util.concurrent.ConcurrentHashMap.computeIfAbsent(ConcurrentHashMap.java:1708) ~[?:?]
+	at net.minecraft.world.level.levelgen.structure.templatesystem.StructureTemplateManager.m_230407_(StructureTemplateManager.java:98) ~[server-1.20.1-20230612.114412-srg.jar%23259!/:?]
+	at net.minecraft.world.level.levelgen.structure.templatesystem.StructureTemplateManager.m_230359_(StructureTemplateManager.java:86) ~[server-1.20.1-20230612.114412-srg.jar%23259!/:?]
+	at com.mojang.datafixers.util.Either$Left.map(Either.java:38) ~[datafixerupper-6.0.8.jar%2377!/:?]
+	at net.minecraft.world.level.levelgen.structure.pools.SinglePoolElement.m_227299_(SinglePoolElement.java:81) ~[server-1.20.1-20230612.114412-srg.jar%23259!/:?]
+	at net.minecraft.world.level.levelgen.structure.pools.SinglePoolElement.m_213638_(SinglePoolElement.java:107) ~[server-1.20.1-20230612.114412-srg.jar%23259!/:?]
+	at net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement$Placer.m_227264_(JigsawPlacement.java:149) ~[server-1.20.1-20230612.114412-srg.jar%23259!/:?]
+	at net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement.m_227210_(JigsawPlacement.java:365) ~[server-1.20.1-20230612.114412-srg.jar%23259!/:?]
+	at net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement.m_227222_(JigsawPlacement.java:339) ~[server-1.20.1-20230612.114412-srg.jar%23259!/:?]
+	at net.minecraft.world.level.levelgen.structure.Structure$GenerationStub.m_226680_(Structure.java:206) ~[server-1.20.1-20230612.114412-srg.jar%23259!/:?]
+	at com.mojang.datafixers.util.Either$Left.map(Either.java:38) ~[datafixerupper-6.0.8.jar%2377!/:?]
+	at net.minecraft.world.level.levelgen.structure.Structure$GenerationStub.m_226677_(Structure.java:204) ~[server-1.20.1-20230612.114412-srg.jar%23259!/:?]
+	at net.minecraft.world.level.levelgen.structure.Structure.m_226596_(Structure.java:88) ~[server-1.20.1-20230612.114412-srg.jar%23259!/:?]
+	at net.minecraft.world.level.chunk.ChunkGenerator.m_223104_(ChunkGenerator.java:513) ~[server-1.20.1-20230612.114412-srg.jar%23259!/:?]
+	at net.minecraft.world.level.chunk.ChunkGenerator.m_254811_(ChunkGenerator.java:466) ~[server-1.20.1-20230612.114412-srg.jar%23259!/:?]
+	at java.lang.Iterable.forEach(Iterable.java:75) ~[?:?]
+	at net.minecraft.world.level.chunk.ChunkGenerator.m_255037_(ChunkGenerator.java:448) ~[server-1.20.1-20230612.114412-srg.jar%23259!/:?]
+	at net.minecraft.world.level.chunk.ChunkStatus.m_289181_(ChunkStatus.java:54) ~[server-1.20.1-20230612.114412-srg.jar%23259!/:?]
+	at net.minecraft.world.level.chunk.ChunkStatus.m_280308_(ChunkStatus.java:252) ~[server-1.20.1-20230612.114412-srg.jar%23259!/:?]
+	at net.minecraft.server.level.ChunkMap.lambda$scheduleChunkGeneration$27(ChunkMap.java:643) ~[server-1.20.1-20230612.114412-srg.jar%23259!/:?]
+	at com.mojang.datafixers.util.Either$Left.map(Either.java:38) ~[datafixerupper-6.0.8.jar%2377!/:?]
+	at net.minecraft.server.level.ChunkMap.lambda$scheduleChunkGeneration$29(ChunkMap.java:634) ~[server-1.20.1-20230612.114412-srg.jar%23259!/:?]
+	at java.util.concurrent.CompletableFuture$UniCompose.tryFire(CompletableFuture.java:1150) ~[?:?]
+	at java.util.concurrent.CompletableFuture$Completion.run(CompletableFuture.java:482) ~[?:?]
+	at net.minecraft.server.level.ChunkTaskPriorityQueueSorter.m_143188_(ChunkTaskPriorityQueueSorter.java:62) ~[server-1.20.1-20230612.114412-srg.jar%23259!/:?]
+	at net.minecraft.util.thread.ProcessorMailbox.m_18759_(ProcessorMailbox.java:91) ~[server-1.20.1-20230612.114412-srg.jar%23259!/:?]
+	at net.minecraft.util.thread.ProcessorMailbox.m_18747_(ProcessorMailbox.java:146) ~[server-1.20.1-20230612.114412-srg.jar%23259!/:?]
+	at net.minecraft.util.thread.ProcessorMailbox.run(ProcessorMailbox.java:102) ~[server-1.20.1-20230612.114412-srg.jar%23259!/:?]
+	at java.util.concurrent.ForkJoinTask$RunnableExecuteAction.exec(ForkJoinTask.java:1395) ~[?:?]
+	at java.util.concurrent.ForkJoinTask.doExec(ForkJoinTask.java:373) ~[?:?]
+	at java.util.concurrent.ForkJoinPool$WorkQueue.topLevelExec(ForkJoinPool.java:1182) ~[?:?]
+	at java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1655) ~[?:?]
+	at java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1622) ~[?:?]
+	at java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:165) ~[?:?]
+[10Jan2026 01:26:45.064] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sekora35 has made the advancement [Life turned out to be a comedy]
+[10Jan2026 01:28:18.512] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Sekora35 lost connection: Disconnected
+[10Jan2026 01:28:18.512] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sekora35 left the game
+[10Jan2026 01:28:36.059] [Worker-Main-1/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[10Jan2026 01:28:36.060] [Worker-Main-1/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[10Jan2026 01:28:36.060] [Worker-Main-1/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[10Jan2026 01:28:36.060] [Worker-Main-1/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[10Jan2026 01:29:32.754] [Worker-Main-1/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[10Jan2026 01:29:33.163] [Worker-Main-3/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[10Jan2026 01:29:33.164] [Worker-Main-3/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[10Jan2026 01:29:33.164] [Worker-Main-3/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[10Jan2026 01:29:33.165] [Worker-Main-3/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[10Jan2026 01:29:34.866] [Worker-Main-3/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[10Jan2026 01:29:34.866] [Worker-Main-3/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[10Jan2026 01:29:34.866] [Worker-Main-3/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[10Jan2026 01:29:34.866] [Worker-Main-3/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[10Jan2026 01:29:34.867] [Worker-Main-3/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[10Jan2026 01:29:39.790] [Worker-Main-1/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[10Jan2026 01:29:39.791] [Worker-Main-1/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[10Jan2026 01:29:39.791] [Worker-Main-1/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[10Jan2026 01:29:39.791] [Worker-Main-1/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[10Jan2026 01:29:40.419] [Worker-Main-3/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[10Jan2026 01:29:40.419] [Worker-Main-3/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[10Jan2026 01:29:40.419] [Worker-Main-3/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[10Jan2026 01:29:40.493] [Worker-Main-2/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[10Jan2026 01:29:40.493] [Worker-Main-2/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[10Jan2026 01:29:40.493] [Worker-Main-2/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[10Jan2026 01:29:56.344] [Worker-Main-3/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[10Jan2026 01:29:58.611] [Worker-Main-1/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[10Jan2026 01:29:58.611] [Worker-Main-1/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[10Jan2026 01:29:58.612] [Worker-Main-1/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[10Jan2026 01:29:58.612] [Worker-Main-1/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[10Jan2026 01:29:58.832] [Worker-Main-3/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[10Jan2026 01:29:58.833] [Worker-Main-3/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[10Jan2026 01:29:58.841] [Worker-Main-3/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[10Jan2026 01:29:58.841] [Worker-Main-3/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[10Jan2026 01:29:59.169] [Worker-Main-3/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[10Jan2026 01:29:59.170] [Worker-Main-3/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[10Jan2026 01:29:59.170] [Worker-Main-3/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[10Jan2026 01:29:59.223] [Worker-Main-2/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[10Jan2026 01:29:59.223] [Worker-Main-2/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[10Jan2026 01:29:59.223] [Worker-Main-2/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[10Jan2026 01:31:16.688] [Worker-Main-3/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[10Jan2026 01:31:16.689] [Worker-Main-3/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[10Jan2026 01:31:16.689] [Worker-Main-3/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[10Jan2026 01:31:16.689] [Worker-Main-3/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[10Jan2026 01:31:16.690] [Worker-Main-3/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[10Jan2026 01:31:16.743] [Worker-Main-2/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[10Jan2026 01:31:16.744] [Worker-Main-2/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[10Jan2026 01:34:15.608] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: MRYIYAN13 was kicked for floating too long!
+[10Jan2026 01:34:15.661] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: MRYIYAN13 lost connection: Flying is not enabled on this server
+[10Jan2026 01:34:15.661] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MRYIYAN13 left the game
+[10Jan2026 01:34:54.656] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@250e680e[id=<null>,name=MRYIYAN13,properties={},legacy=false] (/100.81.208.88:63513) lost connection: Disconnected
+[10Jan2026 01:35:14.750] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@382c063[id=<null>,name=MRYIYAN13,properties={},legacy=false] (/100.81.208.88:63529) lost connection: Disconnected
+[10Jan2026 01:35:23.412] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: MRYIYAN13[/100.81.208.88:63531] logged in with entity id 58094 at (-1535.5788019460413, 223.0776894527036, -1539.5497921351057)
+[10Jan2026 01:35:23.431] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MRYIYAN13 joined the game
+[10Jan2026 01:35:25.861] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Thank you so much for playing Dark Souls Expansion! If you'd like to create a server with your friends, you can do so at
+[10Jan2026 01:36:54.311] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: MRYIYAN13 was kicked for floating too long!
+[10Jan2026 01:36:54.361] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: MRYIYAN13 lost connection: Flying is not enabled on this server
+[10Jan2026 01:36:54.361] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MRYIYAN13 left the game
+[10Jan2026 01:37:10.612] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: MRYIYAN13[/100.81.208.88:63551] logged in with entity id 58839 at (-1533.4309603128759, 224.59618793368338, -1533.5838336282713)
+[10Jan2026 01:37:10.628] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MRYIYAN13 joined the game
+[10Jan2026 01:37:13.075] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Thank you so much for playing Dark Souls Expansion! If you'd like to create a server with your friends, you can do so at
+[10Jan2026 01:38:29.409] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: MRYIYAN13 lost connection: Disconnected
+[10Jan2026 01:38:29.409] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MRYIYAN13 left the game
+[10Jan2026 01:38:40.639] [Server console handler/ERROR] [net.minecraft.server.dedicated.DedicatedServer/]: Caught previously unhandled exception :
+java.io.IOError: java.io.IOException: Error executing 'stty -a': stty: 'standard input': Input/output error
+	at org.jline.terminal.impl.AbstractPosixTerminal.setAttributes(AbstractPosixTerminal.java:54) ~[jline-terminal-3.12.1.jar%2364!/:?]
+	at org.jline.reader.impl.LineReaderImpl.readLine(LineReaderImpl.java:650) ~[jline-reader-3.12.1.jar%2363!/:?]
+	at org.jline.reader.impl.LineReaderImpl.readLine(LineReaderImpl.java:418) ~[jline-reader-3.12.1.jar%2363!/:?]
+	at net.minecraftforge.server.console.TerminalHandler.handleCommands(TerminalHandler.java:46) ~[forge-1.20.1-47.4.13-universal.jar%23264!/:?]
+	at net.minecraft.server.dedicated.DedicatedServer$1.run(DedicatedServer.java:84) ~[server-1.20.1-20230612.114412-srg.jar%23259!/:?]
+Caused by: java.io.IOException: Error executing 'stty -a': stty: 'standard input': Input/output error
+	at org.jline.utils.ExecHelper.exec(ExecHelper.java:42) ~[jline-terminal-3.12.1.jar%2364!/:?]
+	at org.jline.terminal.impl.ExecPty.doGetConfig(ExecPty.java:175) ~[jline-terminal-3.12.1.jar%2364!/:?]
+	at org.jline.terminal.impl.ExecPty.getAttr(ExecPty.java:87) ~[jline-terminal-3.12.1.jar%2364!/:?]
+	at org.jline.terminal.impl.ExecPty.doSetAttr(ExecPty.java:93) ~[jline-terminal-3.12.1.jar%2364!/:?]
+	at org.jline.terminal.impl.AbstractPty.setAttr(AbstractPty.java:29) ~[jline-terminal-3.12.1.jar%2364!/:?]
+	at org.jline.terminal.impl.AbstractPosixTerminal.setAttributes(AbstractPosixTerminal.java:52) ~[jline-terminal-3.12.1.jar%2364!/:?]
+	... 4 more
+[10Jan2026 01:38:40.650] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[10Jan2026 01:38:40.651] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[10Jan2026 01:38:40.651] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[10Jan2026 01:38:40.734] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[Javitanos]'/minecraft:overworld
+[10Jan2026 01:38:40.781] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[Javitanos]'/minecraft:the_nether
+[10Jan2026 01:38:40.782] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[Javitanos]'/twilightforest:twilight_forest
+[10Jan2026 01:38:40.783] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[Javitanos]'/minecraft:the_end
+[10Jan2026 01:38:40.785] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[Javitanos]'/dark_souls_expansion:lordran_dimension
+[10Jan2026 01:38:40.901] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[10Jan2026 01:38:40.901] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[10Jan2026 01:38:40.901] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (twilight_forest): All chunks are saved
+[10Jan2026 01:38:40.901] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[10Jan2026 01:38:40.901] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (lordran_dimension): All chunks are saved
+[10Jan2026 01:38:40.901] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved

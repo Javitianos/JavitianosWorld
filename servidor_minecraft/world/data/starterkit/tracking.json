@@ -1,0 +1,15 @@
+{
+  "singleplayer": {
+    "Javitanos": true
+  },
+  "multiplayer": {
+    "1ce34a3d-c00e-481e-9252-eed088eba096": true,
+    "238d1ef1-0512-4036-9d9d-553540e59c81": true,
+    "3723f9b9-6b27-43fe-8f2b-63b38273f00d": true,
+    "d7493695-9f14-37ce-9359-8fa59f3f492e": true,
+    "83b111e0-4832-3166-891e-8bffdc0abe27": true,
+    "4ba5617f-0c5d-432a-92db-fb6d2560897c": true,
+    "c5229415-6a28-32c9-b18f-9b03987e0f4c": true,
+    "14a1a67a-ca4f-3f42-b718-77046e97a60f": true
+  }
+}
